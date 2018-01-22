@@ -1,4 +1,3 @@
-
 # curso-dos
 
 este es el repositorio oficial para el curso
@@ -13,5 +12,6 @@ creamos texto en la rama texto
 
 curso de Git facilito
 
-
 otro modificación para github
+
+otro cambio instagram en testeo
